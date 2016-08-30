@@ -24,7 +24,7 @@ To run:
 ./gradlew run
 ```
 
-<b>Unit Tests<b>
+<b>Unit Tests</b>
 <br>
 The test will generate an HTML page with results.  It can be found at<br>
 ```
