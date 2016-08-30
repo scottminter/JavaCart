@@ -16,8 +16,8 @@ To run:
 
 <b>OOP</b>
 <br>
-1. Contains code in OOP structure
-2. Output is as expected
+1. Contains code in OOP structure<br>
+2. Output is as expected<br>
 ```
 To run:
 
