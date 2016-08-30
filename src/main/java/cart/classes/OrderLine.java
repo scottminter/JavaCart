@@ -47,11 +47,4 @@ public class OrderLine {
 	public int getQuantity() {
 		return quantity;
 	}
-
-	/**
-	 * TODO: Remove this
-	 */
-	public String toString() {
-		return "Quantity: " + this.getQuantity() + ", " + this.getItem().toString();
-	}
 }

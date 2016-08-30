@@ -24,3 +24,16 @@ To run:
 ./gradlew run
 ```
 
+<b>Unit Tests<b>
+<br>
+The test will generate an HTML page with results.  It can be found<br>
+```
+build/reports/tests/test/packages/test.html
+```
+
+```
+To run tests:
+
+./gradlew test
+```
+

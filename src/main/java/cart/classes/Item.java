@@ -38,11 +38,4 @@ public class Item {
 	public float getPrice() {
 		return price;
 	}
-
-	/**
-	 * TODO: Remove this method
-	 */
-	public String toString() {
-		return "Description: " + this.getDescription() + ", Price: $" + this.getPrice(); 
-	}
 }

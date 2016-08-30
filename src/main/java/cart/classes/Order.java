@@ -13,6 +13,11 @@ public class Order {
 	private List<OrderLine> orderLines = new ArrayList<OrderLine>();
 
 	/**
+	 * Constructor
+	 */
+	public Order() {}
+
+	/**
 	 * Adds a new order line to the order list
 	 *
 	 * @param o Represents a new item that's been ordered
@@ -52,14 +57,5 @@ public class Order {
 	 */
 	public void clear() {
 		this.orderLines.clear();
-	}
-
-	/**
-	 * Displays Data in List
-	 */
-	public void display() {
-		for(int i = 0; i < this.size(); i++) {
-			System.out.println(this.get(i).toString());
-		}
 	}
 }
