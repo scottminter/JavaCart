@@ -2,7 +2,7 @@
 Simple Shopping Cart - Java Code Test
 
 ### There are two branches that contain the requested bodies of work. This project is built using Gradle.
-<b>Master</b>
+<b>all_in_one</b>
 <br>
 1. Contains the all-in-one file<br>
 2. Output is as expected<br>
